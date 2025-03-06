@@ -12,7 +12,9 @@ A Price, Feature, and Review Comparison Website is a platform that helps users c
 # ELECTRONICS CATEGORIES
 ![Screenshot 2025-03-06 215752](https://github.com/user-attachments/assets/c8f37f1b-c0b8-406b-a96f-e34ac491e505)
 # PRODUCT COMPARISION
-#![Screenshot 2025-03-06 215752](https://github.com/user-attachments/assets/9c954909-53f7-450e-8f39-a6470dc73b59)
+![Screenshot 2025-03-06 215829](https://github.com/user-attachments/assets/edda41c2-3063-4fd0-afab-c5045a00a5ed)
+![Screenshot 2025-03-06 222344](https://github.com/user-attachments/assets/96f1cf78-4f42-4e55-afc0-27ba2b4b9a89)
+
 
 
 
